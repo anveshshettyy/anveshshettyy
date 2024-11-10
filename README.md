@@ -2,8 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
----
-
 ### 👨‍💻 About Me
 - 🔭 Currently working on an **Inventory Management System** using the **MERN Stack**
 - 🌱 Learning advanced **Node.js**, **JavaScript**, **React**, and **Figma**
