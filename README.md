@@ -1,6 +1,5 @@
-<h1 align="center">Hi there, I'm Anvesh Shetty 👋</h1>
-<h3 align="center">Full-Stack Developer | MERN Stack Enthusiast</h3>
-
+<h1 align="center">Hi 👋, I'm Anvesh Shetty</h1>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 ---
 
