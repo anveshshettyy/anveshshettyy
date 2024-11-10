@@ -40,10 +40,6 @@
 - **Inventory Management System**  
   A comprehensive MERN stack app with features for inventory creation, item tracking, and analytics.
   - [Repository Link](https://github.com/AnveshShetty/inventory-management-system)
-
-- **Dynamic Item Details**  
-  A dynamic component in my inventory system, allowing users to search and view item details in a full-page layout.
-  - [Repository Link](https://github.com/AnveshShetty/item-details-component)
  
 
 ---
