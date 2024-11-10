@@ -40,7 +40,8 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="mailto:shettyanvesh86@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-shettyanvesh86%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/anvesh-a-shetty-716b05251" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-Anvesh%20Shetty-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/anveshshettyy" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-AnveshShettyy-purple?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+  <a href="mailto:shettyanvesh86@gmail.com"><img align="center" src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
+  <a href="https://linkedin.com/in/anvesh-a-shetty-716b05251" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://instagram.com/anveshshettyy" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
 </p>
+
