@@ -22,7 +22,17 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-GSAP-88CE02?logo=greensock&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
 </p>
+
 
 ---
 
