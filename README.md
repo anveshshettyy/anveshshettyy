@@ -44,7 +44,7 @@
   <a href="https://linkedin.com/in/anvesh-a-shetty-716b05251" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://instagram.com/anveshshettyy" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
   <a href="https://discordapp.com/users/760461254774489159" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/></a>
-  <a href="https://www.upwork.com" target="blank"><img align="center" src="[https://img.icons8.com/color/48/000000/upwork.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpangrampangram.com%2Fblogs%2Ffontinuse%2Fupwork&psig=AOvVaw25GT8W52r6e16P804jqTe&ust=1731331112629000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjhhpPt0YkDFQAAAAAdAAAAABAE)" alt="Upwork" width="40" height="40"/></a>
+  <a href="https://www.upwork.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/upwork.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpangrampangram.com%2Fblogs%2Ffontinuse%2Fupwork&psig=AOvVaw25GT8W52r6e16P804jqTe&ust=1731331112629000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjhhpPt0YkDFQAAAAAdAAAAABAE" alt="Upwork" width="40" height="40"/></a>
   <a href="https://www.fiverr.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/></a>
 </p>
 
