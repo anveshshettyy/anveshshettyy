@@ -49,7 +49,7 @@
   <a href="https://instagram.com/anveshshettyy" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
   <a href="https://discordapp.com/users/760461254774489159" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/></a>
   <a href="https://www.upwork.com/freelancers/~014843d8ed1df37513" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/upwork.png" alt="Upwork" width="40" height="40"/></a>
-  <a href="https://www.fiverr.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/></a>
+  <a href="https://www.fiverr.com/anveshshettyy?up_rollout=true" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/></a>
 </p>
 
 
