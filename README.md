@@ -1,11 +1,6 @@
 <h1 align="center">Hi there, I'm Anvesh Shetty 👋</h1>
 <h3 align="center">Full-Stack Developer | MERN Stack Enthusiast</h3>
 
-<p align="center">
-  <a href="mailto:shettyanvesh86@gmail.com"><img src="https://img.shields.io/badge/Email-shettyanvesh86%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/anvesh-a-shetty-716b05251" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Anvesh%20Shetty-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/anveshshettyy" target="blank"><img src="https://img.shields.io/badge/Instagram-AnveshShettyy-purple?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
-</p>
 
 ---
 
@@ -39,14 +34,7 @@
 - **Dynamic Item Details**  
   A dynamic component in my inventory system, allowing users to search and view item details in a full-page layout.
   - [Repository Link](https://github.com/AnveshShetty/item-details-component)
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnveshShetty&show_icons=true&theme=radical" alt="Anvesh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnveshShetty&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+ 
 
 ---
 
