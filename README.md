@@ -33,6 +33,21 @@
   <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank">
     <img src="https://img.shields.io/badge/-React%20Three%20Fiber-999999?logo=react&logoColor=white&style=for-the-badge" />
   </a>
+  <a href="https://locomotivemtl.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Locomotive%20Scroll-202124?logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://greensock.com/scrolltrigger/" target="_blank">
+    <img src="https://img.shields.io/badge/-ScrollTrigger-88CE02?logo=greensock&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://axios-http.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://ejs.co/" target="_blank">
+    <img src="https://img.shields.io/badge/-EJS-333333?logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://vitejs.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge" />
+  </a>
   <a href="https://nodejs.org/" target="_blank">
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
   </a>
@@ -73,6 +88,7 @@
     <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
   </a>
 </p>
+
 
 
 
