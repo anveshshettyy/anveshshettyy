@@ -82,7 +82,7 @@
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://adobe.com/products/illustrator.html" target="_blank">
-    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" />
   </a>
   <a href="https://canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white" />
