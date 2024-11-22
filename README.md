@@ -37,21 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnveshShetty&show_icons=true&theme=radical" alt="Anvesh's GitHub stats" />
-</p>
-
-### 🌟 Featured Repositories:
-<p align="left">
-  <a href="https://github.com/AnveshShetty/inventory-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnveshShetty&repo=inventory-management-system&theme=radical" />
-  </a>
-  <a href="https://github.com/AnveshShetty/other-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnveshShetty&repo=other-projects&theme=radical" />
-  </a>
-</p>
-
 ---
 
 ### 📫 Connect with Me:
