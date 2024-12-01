@@ -97,7 +97,7 @@
 ### 🚀 Featured Projects
 - **Inventory Management System**  
   A comprehensive MERN stack app with features for inventory creation, item tracking, and analytics.
-  - [Repository Link](https://github.com/AnveshShetty/inventory-management-system)
+  - [InvTracl-(Inventory Management System)](https://github.com/anveshshettyy/InvTrack)
  
 
 ---
