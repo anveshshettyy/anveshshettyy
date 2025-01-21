@@ -3,7 +3,7 @@
 
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on an **Inventory Management System** using the **MERN Stack**
+- 🔭 Currently working on an **Inventory Management System** using the **MERN] Stack**
 - 🌱 Learning advanced **Node.js**, **JavaScript**, **React**, and **Figma**
 - 🤝 Open to collaborating on **Graphic Designing** and **full-stack** projects
 - 🎨 Developing skills in **User Experience (UX) & Product Design**, **Cloud Computing** and **Devops**
