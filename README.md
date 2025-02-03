@@ -101,6 +101,7 @@
 
 - **ChatVerse – Real-time Chat Application**
 A MERN stack-based chat application with real-time messaging, authentication, and user management features.
+ChatVerse – Real-time Chat App
 
  
 
