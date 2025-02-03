@@ -97,11 +97,11 @@
 ### 🚀 Featured Projects
 - **Inventory Management System**  
   A comprehensive MERN stack app with features for inventory creation, item tracking, and analytics.
-  [ InvTrack-(Inventory Management System)](https://github.com/anveshshettyy/InvTrack)]
+  [ InvTrack-(Inventory Management System)](https://github.com/anveshshettyy/InvTrack)
 
 - **ChatVerse – Real-time Chat Application**
 A MERN stack-based chat application with real-time messaging, authentication, and user management features.
-[ChatVerse – Real-time Chat App](https://github.com/anveshshettyy/ChatVerse)
+[(ChatVerse – Real-time Chat App)](https://github.com/anveshshettyy/ChatVerse)
 
  
 
