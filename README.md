@@ -33,6 +33,8 @@
   
 </p>
 
+[![An image of @anveshshettyy7's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anveshshettyy7)](https://holopin.io/@anveshshettyy7)
+
 
 ---
 
