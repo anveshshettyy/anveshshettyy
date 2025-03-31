@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800px" />
+<img src="https://i.gifer.com/4I9G.mp4" width="800px" />
 
 
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1> 
