@@ -2,10 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1> 
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<!-- <h3 align="center">A passionate Full Stack Developer from India</h3> -->
 
 
-### 🏆 Badges & Achievements  
 <p align="left">
   <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer"  >
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="150" />
