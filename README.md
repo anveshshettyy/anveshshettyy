@@ -1,9 +1,8 @@
-<img src="https://svgshare.com/i/YGo.svg" width="100%" />
+<p align="center">
+  <img src="https://via.placeholder.com/1500x500/000000/FFFFFF?text=Welcome+to+My+Profile" width="100%" />
+</p>
 
 <img src="https://i.gifer.com/4I9G.gif" width="800px" />
-
-
-
 
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1> 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
