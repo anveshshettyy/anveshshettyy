@@ -24,7 +24,7 @@
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="150" />
   </a>
 
-  <a href="https://mongodb.com/" target="_blank">
+  <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/servicenow-administration-fundamentals-on-demand?id=learning_course_prev&course_id=91e2630b47503d5890542034846d43ac" target="_blank">
     <img src="https://nowlearning.servicenow.com/Course%20Badge%20-%20On%20Demand%20-%20ServiceNow%20Administration%20Fundamentals%20-%20Equivalency.png" alt="Badge 3" width="150" />
   </a>
 
