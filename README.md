@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800px" />
+
+
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1> 
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
