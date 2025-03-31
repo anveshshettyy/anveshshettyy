@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://via.placeholder.com/1500x500/000000/FFFFFF?text=Welcome+to+My+Profile" width="100%" />
-</p>
+
 
 <img src="https://i.gifer.com/4I9G.gif" width="800px" />
 
@@ -153,4 +153,5 @@ A MERN stack-based chat application with real-time messaging, authentication, an
   <a href="https://discordapp.com/users/760461254774489159" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord" width="40" height="40"/></a>
   <a href="https://www.upwork.com/freelancers/~014843d8ed1df37513" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/4a90e2/upwork.png" alt="Upwork" width="40" height="40"/></a>
   <a href="https://www.fiverr.com/anveshshettyy?up_rollout=true" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/fiverr.png" alt="Fiverr" width="40" height="40"/></a>
+</p>
 </p>
