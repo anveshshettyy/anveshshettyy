@@ -12,7 +12,8 @@
 
 ### 🏆 Badges & Achievements  
 <p align="left">
-  <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png(https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="100" />
+  <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="100" />
+
   <img src="https://your-image-url.com/badge2.png" alt="Badge 2" width="100" />
   <img src="https://your-image-url.com/badge3.png" alt="Badge 3" width="100" />
 </p>
