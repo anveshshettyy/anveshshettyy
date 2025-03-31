@@ -12,11 +12,19 @@
 
 ### 🏆 Badges & Achievements  
 <p align="left">
-  <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="100" />
+  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer" target="_blank">
+    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="100" />
+  </a>
 
-  <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="100" />
-  <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="100" />
+  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer" target="_blank">
+    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="100" />
+  </a>
+
+  <a href="https://leetcode.com/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="100" />
+  </a>
 </p>
+
 
 ---
 
