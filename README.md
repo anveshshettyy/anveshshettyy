@@ -25,7 +25,7 @@
   </a>
 
   <a href="https://mongodb.com/" target="_blank">
-    <img src="Course Badge - On Demand - ServiceNow Administration Fundamentals - Equivalency.png" alt="Badge 3" width="150" />
+    <img src="https://nowlearning.servicenow.com/Course%20Badge%20-%20On%20Demand%20-%20ServiceNow%20Administration%20Fundamentals%20-%20Equivalency.png" alt="Badge 3" width="150" />
   </a>
 
   
