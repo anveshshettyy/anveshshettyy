@@ -1,6 +1,5 @@
 <video width="800px" autoplay loop muted>
   <source src="https://i.gifer.com/4I9G.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
