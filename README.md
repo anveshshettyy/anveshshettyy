@@ -29,11 +29,11 @@
   </a>
 
   <a href="https://mongodb.com" target="_blank">
-    <img src="https://images.credly.com/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" alt="Badge 3" width="170" />
+    <img src="https://images.credly.com/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" alt="Badge 3" width="150" />
   </a>
 
   <a href="https://mongodb.com" target="_blank">
-    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Badge 3" width="150" />
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Badge 3" width="170" />
   </a>
   
   
