@@ -21,7 +21,7 @@
   </a>
 
   <a href="https://leetcode.com/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="200" />
   </a>
 
   <a href="https://mongodb.com/" target="_blank">
