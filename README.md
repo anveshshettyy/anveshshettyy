@@ -1,3 +1,5 @@
+<img src="https://svgshare.com/i/YGo.svg" width="100%" />
+
 <img src="https://i.gifer.com/4I9G.gif" width="800px" />
 
 
