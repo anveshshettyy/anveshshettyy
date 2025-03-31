@@ -1,4 +1,8 @@
-<img src="https://i.gifer.com/4I9G.mp4" width="800px" />
+<video width="800px" autoplay loop muted>
+  <source src="https://i.gifer.com/4I9G.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1> 
