@@ -23,7 +23,7 @@
   </a>
 
   <a href="https://mongodb.com" target="_blank">
-    <img src="https://images.credly.com/images/234edfc5-0177-46e7-a61a-071f060af2f6/blob" alt="Badge 3" width="160" />
+    <img src="https://cdn.codechef.com/images/badges/problem/silver.svg" alt="Badge 3" width="160" />
   </a>
 
 </p>
