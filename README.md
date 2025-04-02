@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer" target="_blank">
+  <a href="https://www.salesforce.com/trailblazer/n2fl0ihd6oqrw77pfd" target="_blank">
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="160" />
   </a>
 
@@ -27,7 +27,7 @@
   
 
   
-  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer"  >
+  <a href="https://www.salesforce.com/trailblazer/n2fl0ihd6oqrw77pfd" target="blank"  >
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="160" />
   </a>
   
