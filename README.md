@@ -10,13 +10,13 @@
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="160" />
   </a>
 
-  <a href="https://mongodb.com" target="_blank">
+  <a href="https://www.codechef.com/users/al_4al22cg004" target="_blank">
     <img src="https://cdn.codechef.com/images/badges/problem/silver.svg" alt="Badge 3" width="160" />
   </a>
 
   
 
-  <a href="https://leetcode.com/" target="_blank">
+  <a href="https://leetcode.com/u/anveshshetty" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="160" />
   </a>
 
