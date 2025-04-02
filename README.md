@@ -6,13 +6,15 @@
 
 
 <p align="center">
-  
-
-  
-
-  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer"  >
-    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="160" />
+  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer" target="_blank">
+    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="160" />
   </a>
+
+  <a href="https://mongodb.com" target="_blank">
+    <img src="https://cdn.codechef.com/images/badges/problem/silver.svg" alt="Badge 3" width="160" />
+  </a>
+
+  
 
   <a href="https://leetcode.com/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="160" />
@@ -22,12 +24,11 @@
     <img src="https://nowlearning.servicenow.com/Course%20Badge%20-%20On%20Demand%20-%20ServiceNow%20Administration%20Fundamentals%20-%20Equivalency.png" alt="Badge 3" width="160" />
   </a>
 
-  <a href="https://mongodb.com" target="_blank">
-    <img src="https://cdn.codechef.com/images/badges/problem/silver.svg" alt="Badge 3" width="160" />
-  </a>
+  
 
-  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer" target="_blank">
-    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="160" />
+  
+  <a href="https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge_agentblazer"  >
+    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="160" />
   </a>
   
 
