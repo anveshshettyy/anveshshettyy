@@ -17,7 +17,7 @@
   
 
   <a href="https://leetcode.com/u/anveshshetty" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge 3" width="160" />
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Badge 3" width="160" />
   </a>
 
   <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/servicenow-administration-fundamentals-on-demand?id=learning_course_prev&course_id=91e2630b47503d5890542034846d43ac" target="_blank">
