@@ -124,7 +124,13 @@
   <a href="https://canva.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
   </a>
+
+  <a href="https://canva.com/" target="_blank">
+    <img src="https://www.remove.bg/b7bd7468-4f40-4ffd-a594-99b5818d389f" />
+  </a>
 </p>
+
+
 
 
 
