@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 <p align="center">
   <a href="https://www.salesforce.com/trailblazer/n2fl0ihd6oqrw77pfd" target="_blank">
