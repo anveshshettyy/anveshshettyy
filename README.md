@@ -135,7 +135,7 @@
 ### 🚀 Featured Projects
 - **Self-Healing Kubernetes Automation System**
 An ML-powered Kubernetes automation system that detects anomalies in pods, nodes, and workloads, then automatically performs healing actions such as restarts, rescheduling, scaling, and redeployments. Designed to improve uptime, reduce DevOps workload, and bring SRE-grade observability and intelligence to K8s clusters.
-[Self-Healing K8s System)](https://github.com/anveshshettyy/selfheal)
+[Self-Healing K8s System)](https://github.com/anveshshettyy/selfheal-kubernetes)
 
 - **ProShelf – Developer Portfolio Builder**
 A full-stack MERN platform that enables developers to build and customize their portfolio websites without coding. Includes dynamic sections, drag-and-drop customization, real-time preview, Cloudinary media uploads, JWT auth, and responsive themes—similar to a mini Webflow built for developer portfolios.
