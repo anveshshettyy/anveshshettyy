@@ -133,21 +133,21 @@
 ---
 
 ### 🚀 Featured Projects
-- **Inventory Management System**  
-  A comprehensive MERN stack app with features for inventory creation, item tracking, and analytics.
-  [ InvTrack-(Inventory Management System)](https://github.com/anveshshettyy/selfheal)
-
-- **ChatVerse – Real-time Chat Application**
-A MERN stack-based chat application with real-time messaging, authentication, and user management features.
-  [ ChatVerse – (Real-time Chat App)](https://github.com/anveshshettyy/proshelf)
-
-  - **Self-Healing Kubernetes Automation System**
+- **Self-Healing Kubernetes Automation System**
 An ML-powered Kubernetes automation system that detects anomalies in pods, nodes, and workloads, then automatically performs healing actions such as restarts, rescheduling, scaling, and redeployments. Designed to improve uptime, reduce DevOps workload, and bring SRE-grade observability and intelligence to K8s clusters.
 [Self-Healing K8s System)](https://github.com/anveshshettyy/selfheal)
 
 - **ProShelf – Developer Portfolio Builder**
 A full-stack MERN platform that enables developers to build and customize their portfolio websites without coding. Includes dynamic sections, drag-and-drop customization, real-time preview, Cloudinary media uploads, JWT auth, and responsive themes—similar to a mini Webflow built for developer portfolios.
 [ ProShelf – Portfolio Builder)](https://github.com/anveshshettyy/proshelf)
+
+- **ChatVerse – Real-time Chat Application**
+A MERN stack-based chat application with real-time messaging, authentication, and user management features.
+  [ ChatVerse – (Real-time Chat App)](https://github.com/anveshshettyy/chatverse)
+
+- **Inventory Management System**  
+  A comprehensive MERN stack app with features for inventory creation, item tracking, and analytics.
+  [ InvTrack-(Inventory Management System)](https://github.com/anveshshettyy/invtrack)
 
 ---
 
