@@ -167,7 +167,7 @@ A MERN stack-based chat application with real-time messaging, authentication, an
     <img src="https://img.icons8.com/color/48/discord-logo.png" width="40"/>
   </a>
   <a href="https://www.upwork.com/freelancers/~014843d8ed1df37513" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO6_qbhgwBYdpsbNNa1ej57K0m-FPzw6wLwQ&s" width="40"/>
+    <img src="https://e7.pngegg.com/pngimages/257/806/png-clipart-upwork-freelancer-android-android-text-trademark-thumbnail.png" width="40"/>
   </a>
   <a href="https://www.fiverr.com/anveshshettyy" target="_blank">
     <img src="https://img.icons8.com/color/48/fiverr.png" width="40"/>
