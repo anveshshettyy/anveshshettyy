@@ -1,6 +1,5 @@
 <img src="https://64.media.tumblr.com/cca4f06484b447c0687f0325af5b38c9/428a8db1dc8ae92f-87/s1280x1920/7c751558b1d93e15c2d885cff2162ddb95059b8d.gif" width="1000px" />
 
-
 <h1 align="center">Hi 👋, I'm Anvesh Shetty</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -13,8 +12,6 @@
     <img src="https://cdn.codechef.com/images/badges/problem/silver.svg" alt="Badge 3" width="160" />
   </a>
 
-  
-
   <a href="https://leetcode.com/u/anveshshetty" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="Badge 3" width="160" />
   </a>
@@ -22,9 +19,6 @@
   <a href="https://nowlearning.servicenow.com/lxp/en/now-platform/servicenow-administration-fundamentals-on-demand?id=learning_course_prev&course_id=91e2630b47503d5890542034846d43ac" target="_blank">
     <img src="https://nowlearning.servicenow.com/Course%20Badge%20-%20On%20Demand%20-%20ServiceNow%20Administration%20Fundamentals%20-%20Equivalency.png" alt="Badge 3" width="160" />
   </a>
-
-  
-
   
   <!-- <a href="https://www.salesforce.com/trailblazer/n2fl0ihd6oqrw77pfd" target="blank"  >
     <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-2-68ceb572b4bcc2919a8bdc114261410605780e72b9db0129b9ffa5ca8644a77e.png" alt="Badge 1" width="160" />
