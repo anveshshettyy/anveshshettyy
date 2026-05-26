@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- <a href="https://www.salesforce.com/trailblazer/n2fl0ihd6oqrw77pfd" target="_blank">
-    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="160" />
+    <img src="https://trailhead.salesforce.com/assets/agentblazer/agentblazer-level-1-3afbb05a25116376d5021711bb6d1b3550296280f8d5cb3b69c1188cdcfe723b.png" alt="Badge 2" width="160" /> as
   </a> -->
 
   <a href="https://www.codechef.com/users/al_4al22cg004" target="_blank">
